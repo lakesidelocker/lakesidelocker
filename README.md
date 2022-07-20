@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @lakesidelocker
-- 👀 I’m interested in ... books,learning from my peers and coding
-- 🌱 I’m currently learning ...Linux Debian, Im a newbie
-- 💞️ I’m looking to collaborate on .. alot hopefully once i get the hang if this place . 
+- 👀 Philomath interested in books,learning from my peers and Hacking (ethically of course. 
+- 🌱 I’m currently learning ...Linux.Pro  CompTiaa +linux ,aspiring
+- , Ethical Hacker . 
+- 💞️ I’m looking to collaborate on ..  the grey areas , coding , learning, hacking.hopefully once i get the hang if this place . 
 - 📫 How to reach me ...lakesidelocker@gmail.com
 
 <!---
